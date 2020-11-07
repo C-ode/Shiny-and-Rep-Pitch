@@ -1,0 +1,57 @@
+---
+	Heading: 'The shiny project'
+	By Sanjay
+	6/11
+	
+	---
+	
+
+	```{r s=e-t-u-p, i.n.c.l.u.d.e=FA.L..S.E.}
+	Kn.i.t.r.:.:.o.p.t.s._.c.h.u.n.k.$.s.e.t.(.e.c.h.o. .=.. F.A.L.S..E.)
+	```
+	
+
+	.#.#.T.h.e.. .c.o.u.r.s.e. .p.r.o.j.e.c.t. 
+	
+
+	
+.T.h.i.s. ..i.s. .a.. .d.e.l.i.v.e.r.y. .f.o.r. .t.h.e. .D.D.P. .as. .t.h.e.. p.a.r.t.. .of.. t.h.e. .c.o.u..rs.e.r.a. .p..r.o.j.e.c.t. .i.m. .d.o.i.n.g.
+	
+
+	What to do:
+	
+
+	1.	.M.a.k.e. .a. .s.hi.n.y. .a.p.p.l.ic.a.t.i.o.n. .a.n.d. t.h..e. p.e.r.s.o..n. .i.s.i.n.g. .i.t. .w.il.l. .s.t.a.r.t. .w.i.t.h. .i.t...
+2.	.U.s.e. .i.t .o.n. .t.h.e. .r.s.t.u.d.i. .s.e.r.v.e.r.
+3.	A.n.d. .fi.n.a..l.l.y .s.h.a.r.e. .i.t/ 
+
+
+
+	
+
+	
+
+	## .t.h.e. .f.a.m.i.l.wfefwwfi.es. .d.a.t.a.s.e.t.
+	
+
+	T.h.i.s. .i.s. .t.h.e. .d..a.t.a .o.f. .t.h.e. .f.a.m.i.l.y. .w.h.i.c.h. .w.e. .a.r.e. .g.o.i.ng.. t.o.. a.n.a..li.s.e. .w.h.i..c.h .s..ee.m.s. .l.i.k.e. .a.n. .in.v.a.s.i.o.n. .o.f. .pr.i.v.a.c.y. .t.bh. .b.u.t. .t.h.e.i.r. .n.a.m.e. .i.s. .G.a.l.t.on. 
+	
+
+	```{r sum}
+	.l.i.b.r.a.r.y.(.H.is.t.D.a.t.a.)
+
+	.d.a.t.a.(.G.a.lt.o.wfwfegtn..Fa.m.itegrew.l..i.e.s.).
+
+	.s.u.m..(.G.wfa.l.t.o.nF.a.m.fwfi.l.i.es.)
+	```
+	
+
+	## ,t,h,e,n, ,we, ,p,l,o,t, ,I,t,
+	.I.n. .th.e. .p.l.o.t. .u.s.e.d. .b.e.l.o.w.. t..he.. d.a.t.a.. u.s.e.d. .i.s. .f.o.r. .t.h.e. .p.r.e.d. .mo..d. i.n. .t.h.e. .s.c.a.t.t.e.r. .m.o.d.e.l.
+	```{.r. .p.l.t.}.
+.	,l.i.b.r.a.r.y.(.H.i.st..D.a.t.a.).
+..	d..a.t.a(.G.a.l.t.o.n.F.a.m.il.i.e.s.).
+.	.p.l.o.t.(.j.it.t.e.r.(.G.a.l.t.wefo.n.F.a.mi.l.i.wfwe.s.$.c.h.i.l.d.fwfH.e.ig..ht.). .~. ..Ga..l.t.o.n.fwF.a.m.i.lwf.i.e.s.efw$.m.id.p.a.r.e.n.t.H.e..i.g.h.t.,.x.l.a.b.=".A.v.e.r.a..ge. .H.e.i.g.h.t. .o.f. .t.h.e. .P.a.r.e.n.t.s. .(.i.n. .i.n.c.h.e.s.).".,.y..l.ab.=..".H.ei.g.h..t. .o.f. .t.h.e. .C.h.i.l.d. .(.i.n. .i.n.ch..e.s.).".,m.a.i.n.=..".S.ca.t.tvsf.e.r.p.l.uktefrot of G.a.l.t.on. .F.a.m.i.l.y. .D.a.t.a.".,.p.c.h.=.1.9.,.f.r.a…pl.o.t.=.F.A.L.S.E.,.c.o.l.=.i.f.e.ls.e.(.G.a.l.t.o.n.Fa.m.$g.e.n.d.e.r=.=.".f.em.a.l.e.".,. .".pi.n.k.".,. ".l.i.g.h.t. .b.l.u.e.".).).
+.	.l..e.g.e.n.d.(.6.5.,.8.0.,.pc.h.=.c.(.1.9.,.1.9.).,.c.o.l.=.c.(.".p.i.n.k.",.".l.i.g.h.t. .b.l.u.e.".).,.c.(.".fe.m.a..le.".,. .".m.a.l.e.".).,b.t.y.=.".o.".,.c.e.x.8)
+	```
+
